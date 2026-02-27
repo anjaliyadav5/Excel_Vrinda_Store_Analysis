@@ -3,12 +3,6 @@
 
 An interactive Excel dashboard analyzing sales performance, customer demographics, and order trends for Vrinda Store in 2022.
 
-## 🖼️ Dashboard Preview
-
-![Vrinda Store Report 2022](dashboard.png)
-
----
-
 ## 📌 Project Overview
 
 The **Vrinda Store Report 2022** dashboard provides insights into:
